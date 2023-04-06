@@ -63,7 +63,7 @@ a:visited {
 
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: min-content 4fr 2fr 2fr;
+    grid-template-rows: [nav-start] min-content [nav-end heading-start] 2fr [heading-end para-start] 1fr [para-end btn-start] 1fr [btn-end];
     justify-items: center;
 }
 

@@ -55,7 +55,7 @@ a:visited {
             rgba(0, 0, 0, 0.4) 0%,
             rgba(0, 0, 0, 0.4) 100%
         ),
-        url("/images/Home-header.jpg");
+        url("./images/Home-header.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
